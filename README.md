@@ -21,7 +21,7 @@ Apply the knowledge you learned from the class, apply 2D life cycle models on th
 
 1.4	Team Work
 
-Select a team model as presented in the chapter 4. Describe your team organization and clarify each team member’s responsibility. Since this is a team project, the collaboration among team members is required. Corresponding artifacts are required to be submitted.
+Select a team model as presented in the chapter 4. Describe your team organization and clarify each team member’s responsibility. Since this is a team project, the collaboration among team members is required. Corresponding artifacts are required to be submitted. Possibly democratcic
 
 1.5	Version Control
 
