@@ -68,22 +68,14 @@ Identify and state the nature of each major project function, activity and ident
 individuals who are responsible for those functions and activities. Tables of functions 
 and activities may be used to depict project responsibilities.
 
-Role
-Description
-Person
-Chief 
-Programmer
-Leads project 
-team
+Role Description - Person
+Chief Programmer - 
+Leads project team
 
-                                       
-                   
-Programmers
-Code and GUI 
+                                                      
+Programmers- Code and GUI 
 	
- Secretary
-In charge of 
-documentation
+Secretary - In charge of documentation
 
 
 
