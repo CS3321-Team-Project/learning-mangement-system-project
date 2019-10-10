@@ -4,7 +4,7 @@ The basic template to be used is derived from IEEE Std. 1058-1998, IEEE Standard
 Software Project Management Plans. The following is a template for the SPMP. Provides 
 an detailed overview of the procedures which go towards the completion of the software 
 project. It surfaces the managerial and technical processes and showcases a general 
-organization of a software product. 
+organization of a software product. 123
 
 
 
