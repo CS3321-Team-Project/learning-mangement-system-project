@@ -1,0 +1,6 @@
+Description: Student will login using username and passoword, if incorrect error message appears.
+Actor: User
+  1. User enters username
+  2. User enters password
+  3. If password is correct, message "Login Successful" appears then user is taken to main menu.
+  4. If passsword incorrect, message "Password/Username Invalid"
