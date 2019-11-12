@@ -46,9 +46,6 @@ evolution tree life cycle model and will use cloud repositories to collaborate o
 accordingly.
 
 
-
-
-
 PROJECT ORGANIZATION
 
 This section specifies the process model for the project and its organizational structure.
@@ -58,7 +55,7 @@ process and keep modifying the program till we get one that fits the criteria th
 
 2.2 Organizational Structure
 
-Democratice Team-Approach
+Democratic Team-Approach
 
 
 
@@ -69,13 +66,10 @@ individuals who are responsible for those functions and activities. Tables of fu
 and activities may be used to depict project responsibilities.
 
 Role Description - Person
-Chief Programmer - 
-Leads project team
-
-                                                      
-Programmers- Code and GUI 
-	
-Secretary - In charge of documentation
+Chief Programmer - Andy Tran
+Leads project team - Timothy Middleton, Bing Xu
+Secretary - Juanita Romero
+Code and GUI - Andy Tran
 
 
 
