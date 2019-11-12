@@ -1,0 +1,7 @@
+Description: Student will log in and navigate to check grades
+Actor: User
+  1. User enters username
+  2. User enters password
+  3. If password is correct, message "Login Successful" appears then user is taken to main menu.
+  4. If passsword incorrect, message "Password/Username Invalid"
+  5. User will click "My Grades" tab to view grades
